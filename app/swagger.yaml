@@ -7,7 +7,7 @@ info:
 host: localhost:3000
 basePath: /
 schemes:
-  - https
+  - http
 paths:
 
   # ! ARTICLES

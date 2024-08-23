@@ -1521,7 +1521,7 @@ definitions:
   BasicRes:
     properties:
       status:
-        type: integer
+        type: number
         description: status code
       message:
         type: string
@@ -1583,7 +1583,7 @@ definitions:
     type: object
     properties:
       status:
-        type: integer
+        type: number
         description: status code
       message:
         type: string
